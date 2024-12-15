@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1732171770 source:d:\kodavimo teorija\uzd\main.cpp
+	<iostream>
+	<bitset>
+	<time.h>
+	<cmath>
+	<vector>
+	<fstream>
+	<string>
+	<cstdint>
+
